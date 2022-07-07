@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: shmuly.sternbach.custommishnahlearningprogram.randomtests.Ma
+ inKt
+
